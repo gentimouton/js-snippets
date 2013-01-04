@@ -1,4 +1,5 @@
 // from JavaScript Patterns by Stefanov
+// Error, SyntaxError, and TypeError have the properties name and message
 
 try {
     // something bad happened, throw an error
